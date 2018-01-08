@@ -21,3 +21,4 @@ Sample code:
       dozetime      => 10,                               # dozetime for the test interval, defaults to 10s
       failontimeout => true,                             # whether to fail the resource if the test times out
     }
+
